@@ -6,8 +6,11 @@ Accurate sales forecasting is essential for businesses to optimize their invento
 The dataset used for this project is sourced from Kaggle and is divided into four subsets:
 
 1)Features Dataset: Includes data such as temperature, fuel price, promotional markdowns, CPI (Consumer Price Index), and unemployment rates. These variables are recorded weekly and are specific to each store and date.
+
 2)Stores Dataset: Provides fundamental information about each Walmart store, including the type of store and its size.
+
 3)Train Dataset: Contains historical sales data for 98 products across 45 Walmart stores covering dates from 2010 to 2012.
+
 4)Test Dataset: Mirrors the structure of the Train dataset but without the weekly sales figures which are to be predicted.
 
 **Data Cleaning & Exploratory Data Analysis**
