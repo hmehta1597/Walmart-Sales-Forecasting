@@ -16,13 +16,19 @@ The dataset used for this project is sourced from Kaggle and is divided into fou
 **Data Cleaning & Exploratory Data Analysis**
 
 Data Cleaning
+
 1)Handled missing values in the markdown columns of the Features dataset by converting 'NA' string values to nulls.
+
 2)Converted economic indicators such as CPI and unemployment rate to numeric data types.
 
 Exploratory Data Analysis
+
 1)Aggregated store size data to find the minimum, average, and maximum store sizes for each type.
+
 2)Constructed a time series plot depicting weekly sales from February 2010 to October 2012.
+
 3)Analyzed temperature trends across different types of Walmart stores.
+
 4)Investigated the impact of fuel prices on sales, concluding that temperature and fuel price changes do not significantly affect sales.
 
 **Modeling Techniques**
