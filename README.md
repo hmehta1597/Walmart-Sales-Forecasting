@@ -34,10 +34,13 @@ Exploratory Data Analysis
 **Modeling Techniques**
 
 Decision Tree: A tree-based model that partitions the data based on feature values.
+
 Random Forest: An ensemble learning technique that constructs multiple decision trees on different subsets of the data.
+
 XGBoost: An advanced implementation of gradient boosting, highly efficient, and flexible with built-in regularization to prevent overfitting.
 
 **Results**
+
 Decision Tree Model
 Accuracy: 87.81%
 RMSE (Training): 7662.26
